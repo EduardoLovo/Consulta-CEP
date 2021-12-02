@@ -1,4 +1,4 @@
 # Consulta-CEP
 Javascript
 
-<img src="https://w7.pngwing.com/pngs/760/399/png-transparent-map-computer-icons-flat-design-location-logo-location-icon-photography-heart-logo.png" alt="loction" />
+<img src="https://www.iconpacks.net/icons/2/free-location-icon-2955-thumb.png" alt="loction" />
